@@ -4,7 +4,7 @@ import java.util.List;
 
 import static exercises2.DaySchedule.*;
 import static java.util.Collections.addAll;
-
+// nu imi printeaza nimic in consola, nu inteleg de ce.
 public class Main extends Exception{
     public static void main(String[] args) throws NoActivityException {
         DailyPlanner dailyPlanner = new DailyPlanner();
